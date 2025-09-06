@@ -1,0 +1,21 @@
+{
+  "short_name": "WorkBD",
+  "name": "WorkBD: Job Portal",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='none'%3E%3Crect width='192' height='192' rx='36' fill='%230A65CC'/%3E%3Cpath d='M48 64 L72 64 L96 104 L120 64 L144 64 L108 128 L96 104 L84 128 Z' fill='white'/%3E%3Cpath d='M96 104 L120 128 L144 128 L120 96 Z' fill='%2300C49F'/%3E%3C/svg%3E",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+       "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='none'%3E%3Crect width='512' height='512' rx='96' fill='%230A65CC'/%3E%3Cpath d='M128 160 L192 160 L256 256 L320 160 L384 160 L288 320 L256 256 L224 320 Z' fill='white'/%3E%3Cpath d='M256 256 L320 320 L384 320 L320 240 Z' fill='%2300C49F'/%3E%3C/svg%3E",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0A65CC",
+  "background_color": "#F3F4F6",
+  "description": "A modern job board for job seekers and recruiters."
+}
